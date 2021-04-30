@@ -1,0 +1,32 @@
+Resident Name : Sam Mathew
+Resident Address : Mumbai
+Area Selected : Andheri
+OverAll Cleanliness Rating : 1.0
+1. Daily garbage collection : Strongly Disagree
+2. Is Wet and Dry garbage strictly separated ? : Strongly Disagree
+3. All the workers wear safety masks, gloves, uniform and other accessories. : Strongly Disagree
+4. Time to time cleaning of drainage systems : Strongly Disagree
+5. Time to time cleaning of kitchen waste outlets : Strongly Disagree
+6. Is daily sweeping of roads done ? : Strongly Disagree
+7. Is daily sweeping of parks done ? : Strongly Disagree
+8. Are the street dustbins cleaned daily ? : Strongly Disagree
+9. You get a very clean supply of water. Do you agree ? : Strongly Disagree
+10. There is a practice of tree planting frequently held by government ? : Strongly Disagree
+11. Is unwanted weed grass cleaned frequently ? : Strongly Disagree
+12. Is regular sanitization done in your area ? : Strongly Disagree
+13. Is regular mosquito repellent spraying done ? : Strongly Disagree
+14. Is animal waste cleaned daily ? : Strongly Disagree
+15. Do the residents co-operate by segregating dry and wet waste : Strongly Disagree
+16. The residents do not throw garbage anywhere on the road : Strongly Disagree
+17. There is less plastic waste seen on your roads : Strongly Disagree
+18. Residents do not spit on roads : Strongly Disagree
+19. There is more use of eco-friendly goods : Strongly Disagree
+20. Residents clean their water storages from time to time : Strongly Disagree
+21. My area's air quality seems healthy and home's ventilation is adequate. : Strongly Disagree
+22. My area is clean and well maintained. : Strongly Disagree
+23. I receive adequate notice of changes in the cleaning schedule or of special cleaning : Strongly Disagree
+24. My requests are handled in a timely manner by waste management team : Strongly Disagree
+25. All the residents use toilets : Strongly Disagree
+25. Teacher is consistent and fair in discipline : 26. There are public dustbins one at every corner in my area : Strongly Disagree
+27. Residents take the responsibility to clean the waste of their pets : Strongly Disagree
+28. The roads are very clean and well maintained : Strongly Disagree
